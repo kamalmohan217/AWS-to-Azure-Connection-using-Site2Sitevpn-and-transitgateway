@@ -3,6 +3,8 @@
 ![image](https://github.com/kamalmohan217/AWS-to-Azure-Connection-using-Site2Sitevpn-and-transitgateway/assets/128888356/50479b8b-32c5-48d8-9234-51594ab5db81)
 ### Architechture Diagram for VPN Gateway Transit using Virtual Network Peering
 ![image](https://github.com/kamalmohan217/AWS-to-Azure-Connection-using-Site2Sitevpn-and-transitgateway/assets/128888356/91b3c2d0-4fc5-4054-bfab-72efedd975d7)
+### Architechure Diagram for Connection between AWS and Azure using Site-to-Site VPN and Transit Gateway
+![image](https://github.com/kamalmohan217/AWS-to-Azure-Connection-using-Site2Sitevpn-and-transitgateway/assets/128888356/aea63359-0840-4b40-a8f5-89bb6bbc0d2c)
 <br><br/>
 #### Configuration in Azure
 1. Create a Resource Group in Azure
